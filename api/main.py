@@ -9,8 +9,8 @@ app = FastAPI()
 origins = [
     "http://localhost",  
     "http://localhost:3000",
-    "http://127.0.0.1:3000", 
-    "https://testapimanu.pages.dev/"  
+    "https://deploy-kappa-hazel.vercel.app/", 
+    "https://testapimanu.pages.dev/"
 ]
 
 app.add_middleware(
