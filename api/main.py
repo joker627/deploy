@@ -10,7 +10,7 @@ origins = [
     "http://localhost",  
     "http://localhost:3000",
     "http://127.0.0.1:3000", 
-    "https://tudominio.com"  
+    "https://testapimanu.pages.dev/"  
 ]
 
 app.add_middleware(
